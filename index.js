@@ -30,11 +30,3 @@ document.addEventListener("DOMContentLoaded", () => {
   observer.observe(observerTarget);
 });
 
-
-
-
-
-console.log('10년 후 내 나이 : ' + (내나이+몇년후) + '살');
-
-let 내나이 = 27;
-let 몇년후 = 10;
